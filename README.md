@@ -2,4 +2,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guillaume-gillard&show_icons=true&theme=tokyonight)
 
-![](https://visitor-badge.glitch.me/badge?page_id=guillaume-gillard.guillaume.gillard)
+![](https://visitor-badge.glitch.me/badge?page_id=guillaume-gillard)
