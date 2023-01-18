@@ -9,5 +9,3 @@
 
 ![](https://komarev.com/ghpvc/?username=guillaume-gillard)
 
-<a href="https://github.com/guillaume-gillard"><img src="contributions.svg"></a>
-
