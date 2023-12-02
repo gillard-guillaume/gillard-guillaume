@@ -13,7 +13,5 @@
 
 ---
 
-![](https://visitor-badge.glitch.me/badge?page_id=guillaume-gillard)
-
 ![](https://komarev.com/ghpvc/?username=guillaume-gillard)
 
