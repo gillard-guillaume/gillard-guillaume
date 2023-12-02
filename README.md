@@ -13,6 +13,7 @@
 
 ---
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=guillaume-gillard)
-![Profile Views](https://komarev.com/ghpvc/?username=guillaume-gillard)
+![](https://visitor-badge.glitch.me/badge?page_id=guillaume-gillard)
+
+![](https://komarev.com/ghpvc/?username=guillaume-gillard)
 
