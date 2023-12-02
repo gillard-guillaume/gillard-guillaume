@@ -7,7 +7,7 @@
 - **Java** <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 - **Django** <img alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 - <div style="border: 2px solid #FFFFFF; padding: 8px; display: inline-block; background-color: #00f;">
-    <img alt="Latex" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
+   **Latex** <img alt="Latex" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
   </div>
 - **Git** <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
