@@ -4,6 +4,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillaume-gillard&layout=compact&show_icons=true&theme=radical&count_private=true&include_all_commits=true&langs_count=10&hide=jupyter-notebook)
 
+### Languages
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+
+
+
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=guillaume-gillard)
