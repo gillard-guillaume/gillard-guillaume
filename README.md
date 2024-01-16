@@ -12,4 +12,3 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=gillard-guillaume&color=blue)
-![Visitor Count](https://profile-counter.glitch.me/{gillard-guillaume}/count.svg)
