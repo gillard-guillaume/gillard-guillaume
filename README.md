@@ -11,5 +11,4 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=guillaume-gillard)
-
+![](https://komarev.com/ghpvc/?username=gillard-guillaume&color=blue)
